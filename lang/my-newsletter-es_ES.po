@@ -1,0 +1,95 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/my-newsletter\n"
+"POT-Creation-Date: 2014-08-16 21:39:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-08-20 13:05+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: WebHostingHub <http://www.webhostinghub.com/>\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: wp-newsletter.php:58 wp-newsletter.php:135 wp-newsletter.php:163
+msgid "WP Newsletter"
+msgstr "WP Newsletter"
+
+#: wp-newsletter.php:65
+msgid ""
+"%s<p><strong>This email sent by <a href=\"%s\" target=\"_blank\">%s</a> "
+"using the <a href=\"http://www.georgijevic.info/wordpress-newsletter/\" "
+"target=\"_blank\">WP Newsletter</a> plugin.<br />Please do not reply this "
+"email. Thank you!!!<br />If you do not want to receive such messages, please "
+"<a href=\"%s[wpmmunsubscribe]\" title=\"Unsubscribe\">unsubscribe</a>!</"
+"strong></p>"
+msgstr ""
+"%s<p><strong>Este email fue enviado por <a href=\"%s\" target=\"_blank\">%s</"
+"a> usando el plugin <a href=\"http://www.georgijevic.info/wordpress-"
+"newsletter/\" target=\"_blank\">WP Newsletter</a>.<br />Por favor no "
+"responda este e-mail. ¡¡¡Gracias!!!<br />Si no desea recibir estos mensajes, "
+"por favor <a href=\"%s[wpmmunsubscribe]\" title=\"Unsubscribe"
+"\">desuscríbase</a>!</strong></p>"
+
+#: wp-newsletter.php:140
+msgid "Sending emails(Do not close your browser!)"
+msgstr "Envío de mensajes de correo electrónico (¡No cierre su navegador!)"
+
+#: wp-newsletter.php:145
+msgid "Sending......"
+msgstr "Enviando..."
+
+#: wp-newsletter.php:145
+msgid "Send completed"
+msgstr "Envio completado"
+
+#: wp-newsletter.php:167
+msgid "Write mail"
+msgstr "Escribir email"
+
+#: wp-newsletter.php:177
+msgid "Recipient group"
+msgstr "Grupo de destinatarios"
+
+#: wp-newsletter.php:180
+msgid "All commenter"
+msgstr "Todos los comentarios"
+
+#: wp-newsletter.php:181
+msgid "All registered user"
+msgstr "Todos los usuarios registrados"
+
+#: wp-newsletter.php:182
+msgid "All subscribers (All commenter and registered user)"
+msgstr ""
+"Todos los suscriptores (Todos los que comentan y los usuarios registrados)"
+
+#: wp-newsletter.php:183
+msgid "The specified post's comments"
+msgstr "Los comentarios del post especificado "
+
+#: wp-newsletter.php:188
+msgid "Specified post"
+msgstr "Post especificado"
+
+#: wp-newsletter.php:209
+msgid "Subject"
+msgstr "Asunto"
+
+#: wp-newsletter.php:216
+msgid "Can use HTML code."
+msgstr "Puede utilizar código HTML."
+
+#: wp-newsletter.php:222
+msgid "Number of per time send"
+msgstr "Número de envío por tiempo"
+
+#: wp-newsletter.php:232
+msgid "Send"
+msgstr "Enviar"
+
+#: wp-newsletter.php:242
+msgid "Support the developer"
+msgstr "Apoyar al desarrollador"
